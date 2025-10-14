@@ -18,7 +18,7 @@
 <body>
     <p>front-pageだよお</p>
     <a href="<?php echo home_url('/dummy') ?>">dummy固定ページへ</a>
-
+ 
     <?php 
         $posts = new WP_Query([
             'post_type' => 'post',
