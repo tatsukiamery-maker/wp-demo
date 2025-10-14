@@ -1,0 +1,12 @@
+# OSやエディタのゴミ
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# node.js関連（必要なら）
+node_modules/
+npm-debug.log
+
+# ビルド生成物（必要なら）
+dist/
