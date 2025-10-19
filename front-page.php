@@ -245,6 +245,26 @@
             <p id="modal09-con">modal09</p>
         </div> -->
 
+        <button class="modal-btn">JSモーダル</button>
+        <div class="modal-outer">
+            <div class="modal-inner">
+                <p>モーダルコンテンツ</p>
+            </div>
+        </div>
+
+        <div class="tab01-wrap">
+            <ul class="tab01-btn">
+                <li class="active"><button>01</button></li>
+                <li><button>02</button></li>
+                <li><button>03</button></li>
+            </ul>
+            <ul class="tab01-content">
+                <li class="active"><div>01</div></li>
+                <li><div>02</div></li>
+                <li><div>03</div></li>
+            </ul>
+        </div>
+
     </div>
       <!--jquery -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
