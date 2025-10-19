@@ -257,6 +257,7 @@
                 <li class="active"><button>01</button></li>
                 <li><button>02</button></li>
                 <li><button>03</button></li>
+                <li><button>04(ブランチ切り替えチェック)</button></li>
             </ul>
             <ul class="tab01-content">
                 <li class="active"><div>01</div></li>
