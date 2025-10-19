@@ -262,6 +262,7 @@
                 <li class="active"><div>01</div></li>
                 <li><div>02</div></li>
                 <li><div>03</div></li>
+                <li><div>04(ブランチ切り替えチェック)</div></li>
             </ul>
         </div>
 
